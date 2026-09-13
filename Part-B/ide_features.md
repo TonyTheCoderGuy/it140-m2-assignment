@@ -1,35 +1,15 @@
 # Assignment 2-3 Part B – IDE Features Reflection
 
 ## Introduction
+Writing my first programming assignment inside a virtual machine and cloud code editor was a completely new experience for me. At first, I was not sure if installing the required elements to do the project would come as a challenge, but I figured it out by starting at step one. I feel a big boost in confidence now that I have overcome that hurdle. Learning to navigate these digital workspace tools helps me as a beginner by showing me how professional developers structure and test their software workflows.
+## Feature 1 – Integrated Terminal
+The first feature I selected is the Integrated Terminal. This tool allows me to open a command-line panel right at the bottom of my workspace so I can run and test my Python scripts instantly. This improved my workflow because I did not have to waste time switching back and forth between a separate terminal window and my code editor.
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+## Feature 2 – Syntax Error Highlighting
+The second feature I selected is Syntax Error Highlighting. This feature automatically analyzes my code while I type and places red squiggly lines under typos, missing symbols, or incorrect indentation. It helped me immensely by pointing out exactly where my spacing was wrong and where a stray symbol was breaking my code, allowing me to fix errors before even executing the program.
 
-TODO: Replace with your introduction here.
-
-## Feature 1 – TODO: Replace with name of your Feature1
-
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
-
-TODO: Replace with your Feature 1 paragraph here.
-
-## Feature 2 – TODO: Replace with name of your Feature2
-
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
-
+## Feature 3 – File Explorer Sidebar
+The third feature I selected is the File Explorer Sidebar. This panel provides a visual folder tree layout that lets me easily navigate between different assignment directories, open starter code files, and view markdown documentation side-by-side. It helped my workflow by keeping my project files organized
 ## Conclusion
+In conclusion, utilizing an Integrated Development Environment like VS Code completely transformed how I approached my first programming assignment. Tools like the built-in terminal, error highlighting, and the file explorer sidebar took away the stress of managing separate windows and guessing where my mistakes were. Gaining confidence with these features makes me feel much more prepared to tackle more advanced coding challenges in the future.
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
